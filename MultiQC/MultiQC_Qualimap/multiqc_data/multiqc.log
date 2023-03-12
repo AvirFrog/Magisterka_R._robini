@@ -1,0 +1,20 @@
+[2023-02-12 01:44:54,507] multiqc                                            [DEBUG  ]  This is MultiQC v1.14
+[2023-02-12 01:44:54,508] multiqc                                            [DEBUG  ]  Command used: /media/raid/home/kdudczak/anaconda3/envs/multiqc/bin/multiqc ./Mapowanie/Qualimap_opt/ -o MultiQC_Qualimap/
+[2023-02-12 01:44:54,788] multiqc                                            [DEBUG  ]  Latest MultiQC version is v1.14
+[2023-02-12 01:44:54,790] multiqc                                            [DEBUG  ]  Working dir : /media/raid/home/kdudczak/Mgr
+[2023-02-12 01:44:54,790] multiqc                                            [DEBUG  ]  Template    : default
+[2023-02-12 01:44:54,790] multiqc                                            [DEBUG  ]  Running Python 3.11.0 | packaged by conda-forge | (main, Jan 14 2023, 12:27:40) [GCC 11.3.0]
+[2023-02-12 01:44:54,791] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, ccs, ngsderive, purple, conpair, lima, peddy, somalier, methylQA, mosdepth, phantompeakqualtools, qualimap, preseq, hifiasm, quast, qorts, rna_seqc, rockhopper, rsem, rseqc, busco, bustools, goleft_indexcov, gffcompare, disambiguate, supernova, deeptools, sargasso, verifybamid, mirtrace, happy, mirtop, sambamba, gopeaks, homer, hops, macs2, theta2, snpeff, gatk, htseq, bcftools, featureCounts, fgbio, dragen, dragen_fastqc, dedup, pbmarkdup, damageprofiler, biobambam2, jcvi, mtnucratio, picard, vep, sentieon, prokka, qc3C, nanostat, samblaster, samtools, sexdeterrmine, eigenstratdatabasetools, bamtools, jellyfish, vcftools, longranger, stacks, varscan2, snippy, umitools, bbmap, bismark, biscuit, diamond, hicexplorer, hicup, hicpro, salmon, kallisto, slamdunk, star, hisat2, tophat, bowtie2, bowtie1, cellranger, snpsplit, odgi, pangolin, nextclade, humid, kat, leehom, adapterRemoval, bbduk, clipandmerge, cutadapt, flexbar, kaiju, kraken, malt, motus, trimmomatic, sickle, skewer, sortmerna, biobloomtools, fastq_screen, afterqc, fastp, fastqc, filtlong, prinseqplusplus, pychopper, porechop, pycoqc, minionqc, anglerfish, multivcfanalyzer, clusterflow, checkqc, bcl2fastq, bclconvert, interop, ivar, flash, seqyclean, optitype, whatshap
+[2023-02-12 01:44:54,793] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmp2hk747q9
+[2023-02-12 01:44:54,929] multiqc                                            [INFO   ]  Search path : /media/raid/home/kdudczak/Mgr/Mapowanie/Qualimap_opt
+[2023-02-12 01:45:00,813] multiqc                                            [DEBUG  ]  Summary of files that were skipped by the search: [skipped_module_specific_max_filesize: 536] // [skipped_no_match: 360]
+[2023-02-12 01:45:02,440] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.6.3
+[2023-02-12 01:45:02,444] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.6.3
+[2023-02-12 01:45:02,448] multiqc                                            [DEBUG  ]  No samples found: custom_content
+[2023-02-12 01:45:02,569] multiqc.modules.qualimap.QM_BamQC                  [DEBUG  ]  Using default Qualimap thresholds: 1, 5, 10, 30, 50
+[2023-02-12 01:45:02,670] multiqc.modules.qualimap.qualimap                  [INFO   ]  Found 8 BamQC reports
+[2023-02-12 01:45:02,713] multiqc                                            [INFO   ]  Compressing plot data
+[2023-02-12 01:45:03,205] multiqc                                            [INFO   ]  Report      : MultiQC_Qualimap/multiqc_report.html
+[2023-02-12 01:45:03,205] multiqc                                            [INFO   ]  Data        : MultiQC_Qualimap/multiqc_data
+[2023-02-12 01:45:03,206] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmp2hk747q9/multiqc_data' to 'MultiQC_Qualimap/multiqc_data'
+[2023-02-12 01:45:03,399] multiqc                                            [INFO   ]  MultiQC complete

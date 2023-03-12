@@ -1,0 +1,17 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	FW2_14081_ACAGTG_read1	/media/raid/home/kdudczak/Mgr/FastQC_Raw/FW2_14081_ACAGTG_read1_fastqc.zip
+FastQC	all_sections	FW4_14083_ACTTGA_read2	/media/raid/home/kdudczak/Mgr/FastQC_Raw/FW4_14083_ACTTGA_read2_fastqc.zip
+FastQC	all_sections	FN1_14084_TAGCTT_read1	/media/raid/home/kdudczak/Mgr/FastQC_Raw/FN1_14084_TAGCTT_read1_fastqc.zip
+FastQC	all_sections	FN3_14086_CTTGTA_read2	/media/raid/home/kdudczak/Mgr/FastQC_Raw/FN3_14086_CTTGTA_read2_fastqc.zip
+FastQC	all_sections	FN2_14085_GGCTAC_read1	/media/raid/home/kdudczak/Mgr/FastQC_Raw/FN2_14085_GGCTAC_read1_fastqc.zip
+FastQC	all_sections	FW1_14080_ATCACG_read1	/media/raid/home/kdudczak/Mgr/FastQC_Raw/FW1_14080_ATCACG_read1_fastqc.zip
+FastQC	all_sections	FW3_14082_GCCAAT_read1	/media/raid/home/kdudczak/Mgr/FastQC_Raw/FW3_14082_GCCAAT_read1_fastqc.zip
+FastQC	all_sections	FW1_14080_ATCACG_read2	/media/raid/home/kdudczak/Mgr/FastQC_Raw/FW1_14080_ATCACG_read2_fastqc.zip
+FastQC	all_sections	FN4_14087_GTGAAA_read2	/media/raid/home/kdudczak/Mgr/FastQC_Raw/FN4_14087_GTGAAA_read2_fastqc.zip
+FastQC	all_sections	FN3_14086_CTTGTA_read1	/media/raid/home/kdudczak/Mgr/FastQC_Raw/FN3_14086_CTTGTA_read1_fastqc.zip
+FastQC	all_sections	FN2_14085_GGCTAC_read2	/media/raid/home/kdudczak/Mgr/FastQC_Raw/FN2_14085_GGCTAC_read2_fastqc.zip
+FastQC	all_sections	FN4_14087_GTGAAA_read1	/media/raid/home/kdudczak/Mgr/FastQC_Raw/FN4_14087_GTGAAA_read1_fastqc.zip
+FastQC	all_sections	FW3_14082_GCCAAT_read2	/media/raid/home/kdudczak/Mgr/FastQC_Raw/FW3_14082_GCCAAT_read2_fastqc.zip
+FastQC	all_sections	FN1_14084_TAGCTT_read2	/media/raid/home/kdudczak/Mgr/FastQC_Raw/FN1_14084_TAGCTT_read2_fastqc.zip
+FastQC	all_sections	FW2_14081_ACAGTG_read2	/media/raid/home/kdudczak/Mgr/FastQC_Raw/FW2_14081_ACAGTG_read2_fastqc.zip
+FastQC	all_sections	FW4_14083_ACTTGA_read1	/media/raid/home/kdudczak/Mgr/FastQC_Raw/FW4_14083_ACTTGA_read1_fastqc.zip

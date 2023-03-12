@@ -1,0 +1,17 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	FN2_14085_GGCTAC_rea_2P	/media/raid/home/kdudczak/Mgr/FasQC_Trim/FN2_14085_GGCTAC_rea_2P_fastqc.zip
+FastQC	all_sections	FW2_14081_ACAGTG_rea_1P	/media/raid/home/kdudczak/Mgr/FasQC_Trim/FW2_14081_ACAGTG_rea_1P_fastqc.zip
+FastQC	all_sections	FN1_14084_TAGCTT_rea_1P	/media/raid/home/kdudczak/Mgr/FasQC_Trim/FN1_14084_TAGCTT_rea_1P_fastqc.zip
+FastQC	all_sections	FW4_14083_ACTTGA_rea_2P	/media/raid/home/kdudczak/Mgr/FasQC_Trim/FW4_14083_ACTTGA_rea_2P_fastqc.zip
+FastQC	all_sections	FN1_14084_TAGCTT_rea_2P	/media/raid/home/kdudczak/Mgr/FasQC_Trim/FN1_14084_TAGCTT_rea_2P_fastqc.zip
+FastQC	all_sections	FN4_14087_GTGAAA_rea_2P	/media/raid/home/kdudczak/Mgr/FasQC_Trim/FN4_14087_GTGAAA_rea_2P_fastqc.zip
+FastQC	all_sections	FW1_14080_ATCACG_rea_2P	/media/raid/home/kdudczak/Mgr/FasQC_Trim/FW1_14080_ATCACG_rea_2P_fastqc.zip
+FastQC	all_sections	FW1_14080_ATCACG_rea_1P	/media/raid/home/kdudczak/Mgr/FasQC_Trim/FW1_14080_ATCACG_rea_1P_fastqc.zip
+FastQC	all_sections	FN3_14086_CTTGTA_rea_2P	/media/raid/home/kdudczak/Mgr/FasQC_Trim/FN3_14086_CTTGTA_rea_2P_fastqc.zip
+FastQC	all_sections	FN4_14087_GTGAAA_rea_1P	/media/raid/home/kdudczak/Mgr/FasQC_Trim/FN4_14087_GTGAAA_rea_1P_fastqc.zip
+FastQC	all_sections	FW2_14081_ACAGTG_rea_2P	/media/raid/home/kdudczak/Mgr/FasQC_Trim/FW2_14081_ACAGTG_rea_2P_fastqc.zip
+FastQC	all_sections	FN2_14085_GGCTAC_rea_1P	/media/raid/home/kdudczak/Mgr/FasQC_Trim/FN2_14085_GGCTAC_rea_1P_fastqc.zip
+FastQC	all_sections	FW3_14082_GCCAAT_rea_2P	/media/raid/home/kdudczak/Mgr/FasQC_Trim/FW3_14082_GCCAAT_rea_2P_fastqc.zip
+FastQC	all_sections	FW4_14083_ACTTGA_rea_1P	/media/raid/home/kdudczak/Mgr/FasQC_Trim/FW4_14083_ACTTGA_rea_1P_fastqc.zip
+FastQC	all_sections	FW3_14082_GCCAAT_rea_1P	/media/raid/home/kdudczak/Mgr/FasQC_Trim/FW3_14082_GCCAAT_rea_1P_fastqc.zip
+FastQC	all_sections	FN3_14086_CTTGTA_rea_1P	/media/raid/home/kdudczak/Mgr/FasQC_Trim/FN3_14086_CTTGTA_rea_1P_fastqc.zip
